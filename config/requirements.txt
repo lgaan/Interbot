@@ -1,0 +1,7 @@
+git+https://github.com/rapptz/discord.py
+git+https://github.com/rapptz/discord-ext-menus
+git+https://github.com/oliver-ni/discord-ext-menus-views
+
+asyncpg
+toml
+jishaku

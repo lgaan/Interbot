@@ -1,0 +1,19 @@
+[PROD]
+token=""
+prefix=""
+module_folder="cogs"
+
+    [PROD.PG_CONFIG]
+    user="username"
+    password="password"
+    database="database"
+
+[DEV]
+token=""
+prefix=""
+module_folder="tests"
+
+    [DEV.PG_CONFIG]
+    user="username"
+    password="password"
+    database="database"
