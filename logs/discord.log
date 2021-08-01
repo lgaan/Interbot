@@ -1,14 +1,1 @@
-2021-07-31 18:34:44,247:INFO:discord: [Cog Load] tests.configuration loaded successfully
-2021-07-31 18:34:44,247:INFO:discord: [Cog Load] tests.listeners loaded successfully
-2021-07-31 18:34:44,344:INFO:discord: [Cog Load] tests.configuration loaded successfully
-2021-07-31 18:34:44,344:INFO:discord: [Cog Load] tests.listeners loaded successfully
-2021-07-31 18:34:44,346:INFO:discord.client: logging in using static token
-2021-07-31 18:34:44,885:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
-2021-07-31 18:34:45,091:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-34qh",{"micros":77917,"calls":["discord-sessions-green-prd-2-151",{"micros":76914,"calls":["start_session",{"micros":31373,"calls":["api-prd-main-206q",{"micros":27770,"calls":["get_user",{"micros":2411},"add_authorized_ip",{"micros":1230},"get_guilds",{"micros":4324},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":28142,"calls":[]}]}]}] (Session ID: 93514611cbe8f943eac52e53b77bfa86).
-2021-07-31 18:35:06,312:INFO:discord.client: Received signal to terminate bot and event loop.
-2021-07-31 18:35:06,312:INFO:discord.client: Cleaning up tasks.
-2021-07-31 18:35:06,312:INFO:discord.client: Cleaning up after 1 tasks.
-2021-07-31 18:35:06,424:INFO:discord.client: All tasks finished cancelling.
-2021-07-31 18:35:06,424:INFO:discord.client: Closing the event loop.
-All tasks finished cancelling.
-2021-07-31 18:35:06,424:INFO:discord.client: Closing the event loop.
+
