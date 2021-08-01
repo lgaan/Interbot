@@ -1,3 +1,4 @@
 config/config.toml
 venv/*
 .idea/*
+*.pyc
