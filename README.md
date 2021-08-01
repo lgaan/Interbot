@@ -1,5 +1,4 @@
 # Interbot
-==========
 
 Interbot is a do-it-all bot originally made for the [Interbyte Studios discord server](https://discord.gg/jR8U94Vu6b).
 
@@ -7,7 +6,6 @@ This repo contains the code for this bot, allowing you to contribute or run your
 
 
 # Running
-=========
 
 To run the bot there are a few things you'll need:
 
